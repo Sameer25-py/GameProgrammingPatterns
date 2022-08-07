@@ -1,7 +1,7 @@
-﻿namespace DefaultNamespace
-{
-    using UnityEngine;
+﻿using UnityEngine;
 
+namespace Player
+{
     public class PlayerMovementController : MonoBehaviour
     {
         #region GeneralVars
