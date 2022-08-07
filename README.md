@@ -1,0 +1,1 @@
+MonoRepo for various game programming patterns implemented in each scene separately.
